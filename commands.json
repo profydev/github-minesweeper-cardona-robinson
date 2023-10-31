@@ -1,7 +1,8 @@
 {
-  "commands": [
-    "clear A8",
-    "flag C3",
-    "flag D2"
+  "comandos" : [ 
+    "borrar A8" ,
+    "bandera C3" ,
+    "bandera D2" ,
+    "claro H9
   ]
 }
